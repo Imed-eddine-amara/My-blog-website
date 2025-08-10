@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "categories": [
+    "blog",
+    "technology",
+    "education"
+  ],
+  "description": "Personal blog of Imed Eddine Amara — Embedded Systems Engineer sharing insights on tech, programming, and innovation.",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "any",
+      "src": "/favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en-US",
+  "name": "Imed eddine Amara",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Imed eddine Amara",
+  "start_url": "/",
+  "theme_color": "#09090b"
+}

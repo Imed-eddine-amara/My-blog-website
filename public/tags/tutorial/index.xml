@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Imed eddine Amara</title>
+    <link>http://localhost:1313/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Imed eddine Amara</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>© 2025 Imed eddine Amara</copyright>
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;this is me testing my blog  2025&#xA;welcome everyone&#xA;i want to thanks&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;figure class=&#34;image-figure not-prose my-8&#34; &#xA;        data-lightbox-enabled=&#34;false&#34;&#xA;        data-gallery-type=&#34;auto&#34;&gt;&#xA;  &lt;div class=&#34;image-container&#34;&gt;&#xA;    &lt;img&#xA;    src=&#34;http://localhost:1313/images/01.avif&#34;&#xA;    alt=&#34;&#34;&#xA;    title=&#34;Photo by - Tobias Rademacher&#34;&#xA;    &#xA;      &#xA;      &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    data-gallery-src=&#34;http://localhost:1313/images/01.avif&#34;&#xA;    data-gallery-alt=&#34;&#34;&#xA;    data-gallery-title=&#34;Photo by - Tobias Rademacher&#34; /&gt;&lt;/div&gt;&#xA;&#xA;  &lt;figcaption class=&#34;image-caption&#34;&gt;&#xA;      Photo by - Tobias Rademacher&#xA;    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;&#xA;&lt;p&gt;the electricyty maker&lt;/p&gt;&#xA;&lt;p&gt;god&lt;/p&gt;&#xA;&lt;p&gt;your mom&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
