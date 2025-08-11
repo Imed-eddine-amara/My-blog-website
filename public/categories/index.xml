@@ -16,12 +16,5 @@
       <guid>http://localhost:1313/categories/blog/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Image-Rendering</title>
-      <link>http://localhost:1313/categories/image-rendering/</link>
-      <pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/categories/image-rendering/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
